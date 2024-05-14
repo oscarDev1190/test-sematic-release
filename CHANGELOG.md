@@ -2,6 +2,19 @@
 
 
 
+## v0.3.0 (2024-05-14)
+
+### Feature
+
+* feat(sqrt): raiz cuadrada ([`b1364ea`](https://github.com/oscarDev1190/test-sematic-release/commit/b1364ea53c202bca6b75b6f77399e3201bbb6429))
+
+### Unknown
+
+* Merge pull request #3 from oscarDev1190/develop
+
+feat(sqrt): raiz cuadrada ([`d6f92b0`](https://github.com/oscarDev1190/test-sematic-release/commit/d6f92b0c364fbaf96c64d8d57a6e7ecf6728af2e))
+
+
 ## v0.2.0 (2024-05-14)
 
 ### Feature
