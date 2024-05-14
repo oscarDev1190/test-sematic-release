@@ -2,6 +2,25 @@
 
 
 
+## v0.2.0 (2024-05-14)
+
+### Feature
+
+* feat: division ([`e5d3b91`](https://github.com/oscarDev1190/test-sematic-release/commit/e5d3b91c9a48068a6b089042babef503af9f476d))
+
+* feat: multiplicacion ([`69878a0`](https://github.com/oscarDev1190/test-sematic-release/commit/69878a00d6af8267a64431f45349e31fc1fe7a08))
+
+### Fix
+
+* fix: correcion division ([`a194e97`](https://github.com/oscarDev1190/test-sematic-release/commit/a194e973167f75ebe5f0ab8d5607d3ea3a7e0211))
+
+### Unknown
+
+* Merge pull request #2 from oscarDev1190/develop
+
+Develop ([`32833d8`](https://github.com/oscarDev1190/test-sematic-release/commit/32833d879430438f290dff33604dd3ef6f170c16))
+
+
 ## v0.1.0 (2024-05-13)
 
 ### Feature
